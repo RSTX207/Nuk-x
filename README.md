@@ -1,19 +1,17 @@
-# NUK Asset: App
+# NUK Build
 
-> "the question is the nuk"
+> The question is the Nuk
 
-Este proyecto es una herramienta digital de alto rendimiento generada automáticamente por el **NUK Production Engine**.
+ 🛠 Detalles Técnicos
+- Autor:Nuk
+- Framework: React + Vite
+- Estilo: Tailwind CSS
+- Arquitectura: Componente Descentralizado
 
-### 🛠 Detalles Técnicos
-- **Autor:** Humberto Flores
-- **Framework:** React + Vite
-- **Estilo:** Tailwind CSS
-- **Arquitectura:** Componente Descentralizado
-
-### 🚀 Despliegue Rápido
+🚀 Despliegue Rápido
 1. Instala dependencias: `npm install`
 2. Inicia desarrollo: `npm run dev`
 3. Construye producción: `npm run build`
 
 ---
-© 2026 NUK | Infraestructura Digital Premium.
+© 2026 NUK |
